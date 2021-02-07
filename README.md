@@ -54,4 +54,4 @@ of your choice. Now only the specified department will be shown.
 ## Notes
 
 ## Todos
-[ ] add human resources endpoint
+- add human resources endpoint
