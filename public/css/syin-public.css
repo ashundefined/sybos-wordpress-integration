@@ -1,0 +1,31 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.operation{
+    margin-bottom: 1rem;
+}
+
+.operation small {
+    color: #5c5c5c;
+    font-style: italic;
+}
+
+.operation h4{
+    font-weight: lighter;
+    border-bottom: 1px solid #b8b8b8;
+}
+
+.operation p.operation-details{
+    margin-bottom: 0.5rem;
+}
+
+.operation h4 span.time{
+    font-size: 80%;
+    font-style: italic;
+}
+
+.operation p span.prefix{
+    font-weight: bolder;
+}
